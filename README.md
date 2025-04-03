@@ -29,5 +29,5 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-<img  src="https://raw.githubusercontent.com/taqui-786/taqui-786/output/github-contribution-grid-snake.svg" alt="contribution graph" />
+<img  src="https://raw.githubusercontent.com/ms-tech-geek/ms-tech-geek/output/github-contribution-grid-snake.svg" alt="contribution graph" />
 </div>
